@@ -1,5 +1,5 @@
-## Name: MARXIN LIJO M
-## Enter Register No. 212223240085
+## Name: Masina Sree Karsh
+## Enter Register No. 212223100033
 ## Experiment No: 2
 ## Date:
 Implementation of Exact Inference Method of Bayesian Network
